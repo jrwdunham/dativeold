@@ -1,0 +1,6 @@
+[submodule "old"]
+	path = old
+	url = https://github.com/jrwdunham/old.git
+[submodule "dative"]
+	path = dative
+	url = https://github.com/jrwdunham/dative.git
